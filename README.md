@@ -65,7 +65,8 @@ The goal of this dashboard is to:
 
 ### 6. 📉 **NIFTY 10 Stocks : Dividend, Bonus & Split Overview** : Summarize and track corporate actions such as dividend payouts, bonus issues, and stock splits for the top 10 NIFTY companies — giving investors clarity on shareholder return policies.
 
-![image](https://github.com/user-attachments/assets/02ccf230-6491-41a1-b5cb-1d9b6410281e)
+![image](https://github.com/user-attachments/assets/3320831d-7cb1-4835-bdc9-03927a36c4dd)
+
 
 ### 7. 📰 **NIFTY 10 Stocks : Top Trending News** : Display the latest company-specific or market-related news headlines affecting the top 10 NIFTY stocks to help users stay informed about events influencing stock performance.
 
@@ -73,6 +74,9 @@ The goal of this dashboard is to:
 
 
 ### 8. NIFTY 500 Stocks : Technicals & Fundamentals : Offer a scalable view of key financial indicators for a wider universe of companies beyond the NIFTY 50 — covering the NIFTY 500, which represents ~95% of India’s market cap.
+
+![image](https://github.com/user-attachments/assets/8a7eba5a-5cd1-42bb-bba1-07946c57cf2e)
+
 
 ![image](https://github.com/user-attachments/assets/89beafe7-aefe-4d79-a578-e492ed06e647)
 
